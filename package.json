@@ -4,7 +4,7 @@
   "description": "tabnews.com.br implementation made for curso.dev",
   "main": "index.js",
   "scripts": {
-   "dev": "next dev"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
